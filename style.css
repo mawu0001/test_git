@@ -3,7 +3,8 @@
 }
 
 h1 {
-  color: brown;
+  color: rgb(134, 165, 42);
+  font-family: "Courier New", Courier, monospace;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
 }
 
 p {
-  color: rgb(95, 60, 128);
+  color: rgb(132, 0, 255);
 }
 
 header {
