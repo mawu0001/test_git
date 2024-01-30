@@ -3,7 +3,7 @@
 }
 
 h1 {
-  color: brown;
+  color: rgb(106, 33, 33);
 }
 
 body {
@@ -11,9 +11,9 @@ body {
 }
 
 p {
-  color: rgb(95, 60, 128);
+  color: rgb(173, 106, 235);
 }
 
 header {
-  background-color: aqua;
+  background-color: rgb(21, 85, 85);
 }
